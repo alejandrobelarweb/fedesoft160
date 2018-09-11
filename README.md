@@ -12,3 +12,6 @@ Los temas tratados en este curso son :
   * HTML,CSS, Sass
   * Programacion orientada a objetos
   * Javscript/Ecma Script
+  * GIT statua
+
+  
