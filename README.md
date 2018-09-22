@@ -13,5 +13,6 @@ Los temas tratados en este curso son :
   * Programacion orientada a objetos
   * Javscript/Ecma Script
   * GIT status
+  * No me debria dejar subir el cmabio
 
   
